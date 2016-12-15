@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+my first repository,
 I will make some changes and commit them.
